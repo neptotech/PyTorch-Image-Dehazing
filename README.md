@@ -1,5 +1,5 @@
 # PyTorch-Image-Dehazing
-PyTorch implementation of some single image dehazing networks. 
+PyTorch implementation of some single image dehazing networks by yolk. 
 
 Currently Implemented:
 **AOD-Net**: An extremely lightweight model (< 10 KB). Results are good.
